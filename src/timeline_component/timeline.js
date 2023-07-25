@@ -93,3 +93,5 @@ import 'react-vertical-timeline-component/style.min.css';
         //icon={<StarIcon />}
     />
 </VerticalTimeline>
+
+export default VerticalTimeline;

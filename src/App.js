@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Timeline from './timeline_component/timeline';
+import VerticalTimeline from './timeline_component/timeline';
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Timeline/>
+          <VerticalTimeline/>
         </a>
       </header>
     </div>
